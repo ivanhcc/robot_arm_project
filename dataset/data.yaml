@@ -1,0 +1,7 @@
+path: E:/MSCs Project/Program/Python/data
+train: E:/MSCs Project/Program/Python/data/train/images
+val: E:/MSCs_Project/Program/Python/data/validation/images
+nc: 2
+names:
+- cup
+- target
